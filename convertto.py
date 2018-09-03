@@ -29,4 +29,4 @@ if __name__ == '__main__':
                  atom = marking_atoms(pb)
                  filedumpc(str(i)+".dat",kk, atom)
              os.chdir('../') 
-"""To run this code do python convertto.py -t clsman or convertto.py -t jmol or covertto.py -t xyztoclsman"""             
+            
