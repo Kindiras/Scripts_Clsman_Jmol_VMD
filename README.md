@@ -4,3 +4,4 @@ This code was written by Indiras Khatri in 02/10/2018
 To run this code convertto.py and run_file.py should be in the same directory. 
 Open the terminal and go to the same directory where those codes are located.
 Type python convertto.py -t clsman [for clsman format) or convertto.py -t jmol [jmol format) or covertto.py -t xyztoclsman (from xyz format to clsman format).
+Need help email me: indiras.khatri@rockets.utoledo.edu
